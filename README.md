@@ -11,7 +11,15 @@ This repository contains an AI/ML-based Intrusion Detection System (IDS) designe
 
 ## Repository Structure
 
-├── extract_features.py # Script for feature extraction from raw data ├── train_model.py # Trains ML model on network data ├── sniff_predict.py # Sniffs network packets and predicts intrusions ├── model.pkl # Pre-trained ML model ├── scaler.pkl # Scaler used to normalize input features ├── top_features_portscan.csv # Selected top features for detection ├── Friday-WorkingHours...csv # Sample dataset used for training/testing ├── LICENSE └── README.md # This file
+- `extract_features.py` – Script for feature extraction from raw data  
+- `train_model.py` – Trains ML model on network data  
+- `sniff_predict.py` – Sniffs network packets and predicts intrusions  
+- `model.pkl` – Pre-trained ML model  
+- `scaler.pkl` – Scaler used to normalize input features  
+- `top_features_portscan.csv` – Selected top features for detection  
+- `Friday-WorkingHours...csv` – Sample dataset used for training/testing  
+- `LICENSE` – Project license  
+- `README.md` – Project documentation  
 
 ## Requirements
 
