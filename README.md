@@ -1,3 +1,6 @@
+[![Owner](https://img.shields.io/badge/Owner-stoyanvalchev-emeraldgreen)](https://github.com/stoyanvalchev)
+[![Owner](https://img.shields.io/badge/Owner-zarkobeats-emeraldgreen)](https://github.com/zarkobeats)
+
 # AI/ML-Based Detection System (IDS)
 
 This repository contains an AI/ML-based Intrusion Detection System (IDS) designed to detect network intrusions using machine learning algorithms. It uses preprocessed network traffic data, extracts relevant features, trains a classifier, and performs real-time or batch predictions.
